@@ -12,3 +12,9 @@ Installation
 ----
 
 `go get github.com/coinpath/coinpath`
+
+
+Contributors
+----
+
+metacoin
