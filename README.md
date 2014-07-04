@@ -11,4 +11,4 @@ Version
 Installation
 ----
 
-go get github.com/coinpath/coinpath
+`go get github.com/coinpath/coinpath`
